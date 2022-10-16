@@ -5,3 +5,5 @@ se irán actualizando utilizando branches dentro de git.
 
  Nombre del alumno: <DANAI KETZALLI ZARATE JUAREZ>
  Fecha de hoy: <16 DE OCTUBRE DEL 2022>
+
+CAMBIO REALIZADO DESDE GITHUB
